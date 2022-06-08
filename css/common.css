@@ -24,3 +24,8 @@
     object-position: center;
     border-radius: 100%;
 }
+
+.logo {
+    width: 50px;
+    margin-right: 20px;
+}
